@@ -1,4 +1,4 @@
-Employee Attrition Prediction
+## Employee Attrition Prediction
 
 An AI-powered machine learning project that predicts employee attrition using a **Random Forest model**. This application helps organizations identify employees at risk of leaving, enabling proactive 
 decision-making.
